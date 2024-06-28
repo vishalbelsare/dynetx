@@ -1,7 +1,8 @@
-sphinx_rtd_theme==0.4.3
+sphinx_rtd_theme
+tqdm
 mock
 numpy
 decorators
-networkx>=2.4
+networkx
 pytest>=5.4.3
 docutils==0.15.2
